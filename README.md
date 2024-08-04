@@ -5,12 +5,12 @@ Welcome to BuyBliss, an innovative e-commerce platform designed to provide a sea
 ## Table of Contents:
 
 - Introduction
-- Features
+- Key Features
 - Technology Stack
+- Prerequisites
 - Usage
-- API Documentation
 - License
-- Contact
+- Acknowledgement
 
 ## Introduction
 
