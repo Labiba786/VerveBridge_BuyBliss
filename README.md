@@ -51,8 +51,6 @@ BuyBliss is an e-commerce website that allows users to browse, search, and purch
 
 ## Usage
 
-Once the development server is running, you can access the application at http://localhost:3000.
-
 - Register/Login: Create an account or log in with your existing credentials.
 - Browse Products: Explore products across different categories.
 - Add to Cart: Add products to your shopping cart.
